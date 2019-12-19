@@ -4,5 +4,5 @@
 <p> Option 2 <a href="hangup.md"> Hang it up </a> <p>
 
 <!-- [pickup.md]( -->
-
-[pick it up](../choose-your-own-adventure/restoffolder/pickup.md)
+---
+### [pick it up](../choose-your-own-adventure/restoffolder/pickup.md)
