@@ -5,4 +5,4 @@
 
 <!-- [pickup.md]( -->
 ---
-### [pick it up](pickup.md)
+### [pick it up](restoffolder/pickup.md)
