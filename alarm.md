@@ -5,4 +5,4 @@
 
 <!-- [pickup.md]( -->
 
-Pick it up [choose-your-own-adventure](../restoffolder/pickup.md) Pick it up
+[pick it up](../choose-your-own-adventure/restoffolder/pickup.md)
