@@ -6,12 +6,12 @@ Option 1: [A red dress](good.md) <br>
 alt="red dress" style="width:100px;height:110px;">
 
 Option 2: [A casual cute fit](good.md) <br>
-<img src="https://cdn2-www.thefashionspot.com/assets/uploads/gallery/dove-first-date-outfits/sweater-dove-first-date.jpg" alt="casual cute fit" 
+<img src="https://cdn2-www.thefashionspot.com/assets/uploads/gallery/dove-first-date-outfits/sweater-dove-first-date.jpg" alt="casual cute fit"
 style="width:100px;height:110px;">
 
 Option 3: [A costume?](good.md) <br>
-<img src="https://cdn.costumewall.com/halloween-costume-contest/wp-content/uploads/2018/10/IMG_20181020_085726-0-1024x1381.jpg" alt="amazing costume" 
-style="width:180px;height:80px;">
+<img src="https://cdn.costumewall.com/halloween-costume-contest/wp-content/uploads/2018/10/IMG_20181020_085726-0-1024x1381.jpg" alt="amazing costume"
+style="width:80px;height:80px;">
 
 option 4: [Casual Fit](good.md) <br>
 <img src="https://i.pinimg.com/originals/71/f5/c2/71f5c201902a0470e5c38dd7676f0585.jpg" alt="handsome" style="width:100px;height:110px;">
