@@ -1,7 +1,7 @@
 You chose to read! What book will you read?
 
 [Everything, everything](end5.md) <br>
-<img src="https://images-na.ssl-images-amazon.com/images/I/51h4jbd1aVL._SX331_BO1,204,203,200_.jpg" alt="everything book"> <br>
+<img src="https://target.scene7.com/is/image/Target/GUEST_5ed4c267-cd1b-4faa-afbc-0942e2f1d7b5?wid=488&hei=488&fmt=pjpeg" alt="everything book"> <br>
 
 [The silent Patient](end5.md) <br>
 <img src="https://bkstr.scene7.com/is/image/Bkstr/9781250301697?$NontextPDPRecsRightRail_ET$" alt="silent"> <br>
@@ -11,3 +11,5 @@ You chose to read! What book will you read?
 
 [The things they carried](end5.md) <br>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328028106i/8135490._UY256_SS256_.jpg" alt="carried">
+
+https://target.scene7.com/is/image/Target/GUEST_5ed4c267-cd1b-4faa-afbc-0942e2f1d7b5?wid=488&hei=488&fmt=pjpeg
