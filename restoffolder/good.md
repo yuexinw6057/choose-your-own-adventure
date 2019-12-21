@@ -1,7 +1,11 @@
 Fast forwarding! You are on a date! Your partner wants food and decides to asks you where you want to go. 
 
-[Popeyes](ok.md)
-[Fancy restruant](ok.md)
-[Chinese restruant](ok.md)
-[Korean Food](ok.md)
-[Red Lobster](ok.md)
+[Popeyes](ok.md) <br> 
+
+[Fancy restruant](ok.md) <br>
+
+[Chinese restruant](ok.md) <br>
+
+[Korean Food](ok.md) <br>
+
+[Red Lobster](ok.md) 
