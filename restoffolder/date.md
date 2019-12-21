@@ -2,8 +2,7 @@ Since you said yes to their date invitation...
 What outfit would you like?
 
 Option 1: [A red dress](good.md) <br>
-<img src="https://cdn.shopify.com/s/files/1/0576/4893/products/Perfect_Date_Dress_Red_XB_Shot15_016_grande_50459e27-015e-49fe-a4d9-a608b6efca70_grande.jpg?v=1559173700"
-alt="red dress" style="width:100px;height:110px;">
+<img src="https://di2ponv0v5otw.cloudfront.net/posts/2018/03/11/5aa54ab985e60555c0c8b10a/m_5aa54ad2a4c48573eabbf08a.jpg" alt="red dress">
 
 Option 2: [A casual cute fit](good.md) <br>
 <img src="https://cdn2-www.thefashionspot.com/assets/uploads/gallery/dove-first-date-outfits/sweater-dove-first-date.jpg" alt="casual cute fit"
