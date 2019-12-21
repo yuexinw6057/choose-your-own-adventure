@@ -1,4 +1,4 @@
-You and your date is eating together! He asks if you want a second date! <br>
+You and your date is eating together! (S)he asks if you want a second date! <br>
 
 [Yes!](end1.md) <br> 
 
