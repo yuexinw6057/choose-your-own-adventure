@@ -1,7 +1,7 @@
 Since you said yes to their date invitation...
 What outfit would you like?
 
-Option 1: [A red dress](good.md) <br>
+Option 1: [A dress](good.md) <br>
 <img src="https://di2ponv0v5otw.cloudfront.net/posts/2018/03/11/5aa54ab985e60555c0c8b10a/m_5aa54ad2a4c48573eabbf08a.jpg" alt="red dress">
 
 Option 2: [A casual cute fit](good.md) <br>
